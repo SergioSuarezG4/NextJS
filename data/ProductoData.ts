@@ -1,4 +1,4 @@
-import { ProductoType } from '../../types/ProductoType';
+import { ProductoType } from '../types/ProductoType';
 
 
 export async function GetProductsAll(){

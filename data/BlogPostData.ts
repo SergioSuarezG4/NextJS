@@ -1,4 +1,4 @@
-import { BlogPostType } from "../../types/BlogPostType";
+import { BlogPostType } from "../types/BlogPostType";
 
 const posts: BlogPostType[]= [
     {
